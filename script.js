@@ -1,8 +1,6 @@
-let title;
-let screens;
-let screenPrice;
-let rollback;
-let fullPrice;
-let adaptive;
-alert(12312);
-console.log('1312321 test');
+let title = "Лессон 1";
+let screens = "Простые, Сложные, Интерактивные";
+let screenPrice = "232";
+let rollback = "52";
+let fullPrice = " 50000";
+let adaptive = true;
